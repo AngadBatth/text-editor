@@ -14,6 +14,8 @@
 This is a Text Editor PWA which allows the user to have some offline functionality with this application. This is done by allowing the user to install the application straight to their desktop.
 <br />
 
+[Click here for the Deployed application](https://safe-falls-77773-659d64a3a906.herokuapp.com/) <br />
+
 ## Installation
 Clone the repository and ensure you have Node.js installed.<br /><br />
 Once you've done that, open the terminal and run `npm run install` to install the dependencies. <br />
